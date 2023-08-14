@@ -15,7 +15,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.2.6.RELEASE</version>
-		<relativePath /> 
+		<relativePath/> 
 	</parent>
 
 	<artifactId>microservice-kubernetes-demo-customer</artifactId>
@@ -46,7 +46,7 @@
 		<dependency>
 		    <groupId>org.javassist</groupId>
 		    <artifactId>javassist</artifactId>
-		    <version>3.25.0-GA</version>
+		    <version>3.29.2-GA</version>
 		</dependency>
 
 		<dependency>
